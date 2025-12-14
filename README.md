@@ -51,7 +51,7 @@ git clone https://github.com/euvictoroliveira/URI-Beecrowd.git
 cd URI-Beecrowd
 ````
 
-### 2️⃣ Compilar ou executar conforme a linguagem
+### Compilar ou executar conforme a linguagem
 
 **C**
 

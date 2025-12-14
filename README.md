@@ -1,4 +1,3 @@
-```markdown
 # URI-Beecrowd Solutions
 
 Este repositório contém minhas **soluções para problemas da plataforma beecrowd** (antigo URI Online Judge), organizadas por **categorias oficiais** do juiz online.

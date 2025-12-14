@@ -1,11 +1,85 @@
-# Beecrowd Solutions (antigo URI)
+```markdown
+# URI-Beecrowd Solutions
 
-Repositório com minhas soluções para problemas da plataforma [beecrowd](https://www.beecrowd.com.br/) (anteriormente URI Online Judge).
+Este repositório contém minhas **soluções para problemas da plataforma beecrowd** (antigo URI Online Judge), organizadas por **categorias oficiais** do juiz online.
 
-## Sobre
+O objetivo principal é **praticar algoritmos, estruturas de dados e paradigmas de programação**, além de manter um histórico organizado de aprendizado.
 
-As principais linguagens utilizadas foram C, C++, Java e Python.
+## Organização do Repositório
 
-### <a href="https://judge.beecrowd.com/pt/profile/1028467"> 
+As soluções estão organizadas conforme as **categorias oficiais do beecrowd**:
 
+```
+
+URI-Beecrowd/
+├── Iniciante/
+├── Ad-Hoc/
+├── Strings/
+├── Estruturas e Bibliotecas/
+├── Matemática/
+├── Paradigmas/
+├── Grafos/
+├── Geometria Computacional/
+├── SQL/
+└── README.md
+
+````
+
+Dentro de cada pasta, os arquivos normalmente seguem o **número do problema** como nome, facilitando a identificação direta no site do beecrowd.
+
+---
+
+## Linguagens Utilizadas
+
+As soluções deste repositório foram implementadas principalmente em:
+
+- **C**
+- **C++**
+- **Java**
+- **Python**
+- **Go**
+- **Julia**
+
+A escolha da linguagem varia conforme o objetivo do problema ou o foco de estudo no momento.
+
+---
+
+## Como Executar as Soluções
+
+###  Clonar o repositório
+```bash
+git clone https://github.com/euvictoroliveira/URI-Beecrowd.git
+cd URI-Beecrowd
+````
+
+### 2️⃣ Compilar ou executar conforme a linguagem
+
+**C**
+
+```bash
+gcc 1000.c -o 1000
+./1000
+```
+
+**C++**
+
+```bash
+g++ 1001.cpp -o 1001
+./1001
+```
+
+**Java**
+
+```bash
+javac 1002.java
+java 1002
+```
+
+**Python**
+
+```bash
+python3 1003.py
+```
+
+---
 

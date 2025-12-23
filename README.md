@@ -1,5 +1,4 @@
-```markdown
-# URI-Beecrowd Solutions
+# Soluções URI-Beecrowd
 
 Este repositório contém minhas **soluções para problemas da plataforma beecrowd** (antigo URI Online Judge), organizadas por **categorias oficiais** do juiz online.
 
@@ -52,7 +51,7 @@ git clone https://github.com/euvictoroliveira/URI-Beecrowd.git
 cd URI-Beecrowd
 ````
 
-### 2️⃣ Compilar ou executar conforme a linguagem
+### Compilar ou executar conforme a linguagem
 
 **C**
 

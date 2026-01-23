@@ -2,9 +2,7 @@
 #include <iomanip>
 #include <cmath>
 
-using std::cout;
-using std::cin;
-using std::endl;
+using namespace std;
 
 int digitos(int numero){
     return floor(log10(numero)) + 1;

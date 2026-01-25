@@ -1,10 +1,6 @@
 #include <iostream>
 
-using std::cout;
-using std::cin;
-using std::string;
-using std::endl;
-
+using namespace std;
 
 class No{
     public:

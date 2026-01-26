@@ -1,8 +1,6 @@
 #include <iostream>
 
-using std::cout;
-using std::cin;
-using std::endl;
+using std namespace;
 
 int main(){
     int p, j1, j2, r, a;

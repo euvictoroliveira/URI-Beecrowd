@@ -1,10 +1,7 @@
 #include <iostream>
 #include <vector>
 
-using std::cout;
-using std::cin;
-using std::endl;
-using std::vector;
+using namespace std;
 
 int main(){
     int nPerguntas, fatorFrequencia, P, resposta;
